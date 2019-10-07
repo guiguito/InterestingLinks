@@ -61,6 +61,9 @@ Articles and videos i liked on tech and mobile mkt
 
 - [ ] https://basecamp.com/shapeup
 
+## Acquisition
+- [ ] https://medium.com/sideprojects/how-to-get-your-first-500-1000-users-for-your-product-project-and-or-service-for-free-41a888a08764
+
 
 ## ASO
 
