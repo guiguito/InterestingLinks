@@ -48,6 +48,7 @@ Articles and videos i liked on tech and mobile mkt
 ## Monetization
 
 - [ ] https://medium.com/googleplaydev/new-monetization-trends-to-diversify-your-games-revenue-1466bfb3abad
+- [ ] https://www.revenuecat.com/2019/08/14/analyzing-your-mobile-subscription-business
 
 ## Virality
 
