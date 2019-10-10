@@ -69,7 +69,7 @@ Articles and videos i liked on tech and mobile mkt
 ## ASO
 - [x] https://www.meatti.com/blog/app-store-optimization-tips/
 - [x] https://www.meatti.com/blog/aso-tools-app-store-optimization/
-- [ ] https://appempire.com/step-by-step-aso-guide/
+- [x] https://appempire.com/step-by-step-aso-guide/
 - [ ] https://www.apptweak.com/aso-blog
 - [x] https://appfollow.io/fr/blog
 - [x] https://appfollow.io/fr/blog/how-to-get-featured-in-app-store
