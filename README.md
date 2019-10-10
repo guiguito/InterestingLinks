@@ -13,13 +13,13 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://andrewchen.co/
 - [ ] https://brianbalfour.com/essays/patreon-onboarding-growth
 - [ ] https://blog.userlane.com/product-adoption/?%3Futm_source=fb&utm_medium=ppc&utm_campaign=uxadoption&fbclid=IwAR0c1Tq8TgzaE-thPYDhsdSgTLiJnvm7W8kipP0QzZpYl7y_WoimcaeXKYI
-- [ ] Sustainable growth solves most problems : https://www.youtube.com/watch?v=Nh2m9365i0I
-- [ ] Step by step guide to initial traction : https://medium.com/@etch.ai/a-step-by-step-plan-to-get-initial-traction-d81c4bd0ee91#.dnbv0xbv4
+- [x] Sustainable growth solves most problems : https://www.youtube.com/watch?v=Nh2m9365i0I
+- [x] Step by step guide to initial traction : https://medium.com/@etch.ai/a-step-by-step-plan-to-get-initial-traction-d81c4bd0ee91#.dnbv0xbv4
 - [ ] https://www.appagent.co/blog/2019/04/17/mobile-app-growth-strategy-that-actually-works/
 - [ ] Tinder growth : https://growthhackers.com/growth-studies/what-ignited-tinders-explosive-growth
 - [ ] Dating : https://www.brightscout.com/how-to-drive-growth-and-optimization-for-online-dating-apps/
 - [ ] Airbnb : https://medium.com/@etch.ai/how-airbnb-got-their-early-traction-cb059e902ea4
-- [ ] Superhuman onboarding : https://growth.design/case-studies/superhuman-user-onboarding/
+- [x] Superhuman onboarding : https://growth.design/case-studies/superhuman-user-onboarding/
 
 ## Saas Growth
 
@@ -27,7 +27,7 @@ Articles and videos i liked on tech and mobile mkt
 
 ## Conversion
 
-- [ ] https://medium.com/googleplaydev/increase-conversions-in-your-android-app-with-a-multidimensional-approach-e9dd5c659528
+- [x] https://medium.com/googleplaydev/increase-conversions-in-your-android-app-with-a-multidimensional-approach-e9dd5c659528
 
 ## Retention churn
 
@@ -67,17 +67,18 @@ Articles and videos i liked on tech and mobile mkt
 
 
 ## ASO
-
+- [x] https://www.meatti.com/blog/app-store-optimization-tips/
+- [x] https://www.meatti.com/blog/aso-tools-app-store-optimization/
 - [ ] https://appempire.com/step-by-step-aso-guide/
 - [ ] https://www.apptweak.com/aso-blog
-- [ ] https://appfollow.io/fr/blog
-- [ ] https://appfollow.io/fr/blog/how-to-get-featured-in-app-store
-- [ ] https://appfollow.io/fr/blog/boost-your-aso-strategy
-- [ ] https://appfollow.io/fr/blog
-- [ ] https://help.appfollow.io/article/1a2ckg7nmc-how-to-work-with-keywords-in-app-follow-for-the-first-time
-- [ ] https://help.appfollow.io/article/bgh0
-- [ ] https://appfollow.io/fr/blog/keyword-research-in-aso-and-seo-meet-the-difference
-- [ ] https://help.appfollow.io/article/bgh0npbc50-aso-tools
+- [x] https://appfollow.io/fr/blog
+- [x] https://appfollow.io/fr/blog/how-to-get-featured-in-app-store
+- [x] https://appfollow.io/fr/blog/boost-your-aso-strategy
+- [x] https://appfollow.io/fr/blog
+- [x] https://help.appfollow.io/article/1a2ckg7nmc-how-to-work-with-keywords-in-app-follow-for-the-first-time
+- [x] https://help.appfollow.io/article/bgh0
+- [x] https://appfollow.io/fr/blog/keyword-research-in-aso-and-seo-meet-the-difference
+- [x] https://help.appfollow.io/article/bgh0npbc50-aso-tools
 
 # Various 
 
