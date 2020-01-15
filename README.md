@@ -44,6 +44,7 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/
 - [ ] http://abinoda.com/book/nail-it-then-scale-it
 - [ ] https://brianbalfour.com/essays/product-market-fit
+- [ ] https://tribecap.co/a-quantitative-approach-to-product-market-fit/
 
 ## Monetization
 
