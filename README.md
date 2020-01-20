@@ -104,7 +104,7 @@ Articles and videos i liked on tech and mobile mkt
 ## Android
 
 ## Flutter
-
+- [x] https://medium.com/flutter-community/the-main-function-in-flutter-24408cf9c951
 
 ## Various
 
