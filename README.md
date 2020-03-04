@@ -93,8 +93,6 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://splitmetrics.com/blog/app-store-optimization-tips-and-tricks/
 - [ ] https://thetool.io/aso-app-store-optimization
 - [ ] https://www.apptweak.com/aso-blog
-- [ ] https://www.apptweak.com/aso-blog
-
 
 # Various 
 
@@ -103,7 +101,6 @@ Articles and videos i liked on tech and mobile mkt
 # HR
 
 - [ ] https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf
-
 
 # Tech
 
@@ -135,10 +132,12 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://www.mobileaction.co/blog/app-marketing/top-dating-apps-january-2020/
 - [ ] https://startupsoflondon.com/london-startup-ecosystem-ultimate-report-2020/
 - [ ] https://hbswk.hbs.edu/item/identify-great-customers-from-their-first-purchase
+- [ ] https://www.clearbrain.com/
 
 # Links repository
 
 - [ ] http://abinoda.com/
 - [ ] https://github.com/LisaDziuba/Marketing-for-Engineers#love_letter-lifecycle-email-marketing
+
 
 
