@@ -20,6 +20,8 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] Dating : https://www.brightscout.com/how-to-drive-growth-and-optimization-for-online-dating-apps/
 - [ ] Airbnb : https://medium.com/@etch.ai/how-airbnb-got-their-early-traction-cb059e902ea4
 - [x] Superhuman onboarding : https://growth.design/case-studies/superhuman-user-onboarding/
+- [ ] https://medium.com/sideprojects/how-to-get-your-first-500-1000-users-for-your-product-project-and-or-service-for-free-41a888a08764
+
 
 ## Saas Growth
 
@@ -38,6 +40,12 @@ Articles and videos i liked on tech and mobile mkt
 
 - [ ] https://medium.com/unusual-ventures/what-makes-for-a-good-product-manager-f812b590b34e
 - [ ] http://blog.thiga.co/
+- [ ] training : https://knowledgeofficer.com/
+
+## Experimentation and A/B tests 
+
+- [ ] https://assets.ctfassets.net/zw48pl1isxmc/kPHnK23lJs8BRQMbctapQ/e3a87124280e81975b1ec6c232fffe29/BigBook-Experimentation-Main-ebook.pdf
+- [ ] https://goodui.org/leaks/airbnb-discovers-a-better-calendar-picker-component-from-this-ui-experiment/
 
 ## Product market fit
 
@@ -80,6 +88,13 @@ Articles and videos i liked on tech and mobile mkt
 - [x] https://help.appfollow.io/article/bgh0
 - [x] https://appfollow.io/fr/blog/keyword-research-in-aso-and-seo-meet-the-difference
 - [x] https://help.appfollow.io/article/bgh0npbc50-aso-tools
+- [ ] https://www.meatti.com/blog/app-store-optimization-tips/
+- [ ] https://www.apptamin.com/blog/app-store-optimization-aso-app-name-and-keywords/
+- [ ] https://splitmetrics.com/blog/app-store-optimization-tips-and-tricks/
+- [ ] https://thetool.io/aso-app-store-optimization
+- [ ] https://www.apptweak.com/aso-blog
+- [ ] https://www.apptweak.com/aso-blog
+
 
 # Various 
 
@@ -117,7 +132,9 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://tech.okcupid.com/evaluating-perceptual-image-hashes-okcupid/
 - [ ] https://newsroom.fb.com/news/2019/03/keeping-passwords-secure/
 - [ ] https://medium.com/@DavidKPiano/the-facetime-bug-and-the-dangers-of-implicit-state-machines-a5f0f61bdaa2
-
+- [ ] https://www.mobileaction.co/blog/app-marketing/top-dating-apps-january-2020/
+- [ ] https://startupsoflondon.com/london-startup-ecosystem-ultimate-report-2020/
+- [ ] https://hbswk.hbs.edu/item/identify-great-customers-from-their-first-purchase
 
 # Links repository
 
