@@ -59,6 +59,9 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://medium.com/googleplaydev/new-monetization-trends-to-diversify-your-games-revenue-1466bfb3abad
 - [ ] https://www.revenuecat.com/2019/08/14/analyzing-your-mobile-subscription-business
 
+## Gamification
+- [ ] https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/
+
 ## Virality
 
 - [ ] https://bothgunsblazingblog.wordpress.com/2013/10/22/the-k-factor-growth-and-going-viral/
