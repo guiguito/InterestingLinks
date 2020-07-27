@@ -53,6 +53,7 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] http://abinoda.com/book/nail-it-then-scale-it
 - [ ] https://brianbalfour.com/essays/product-market-fit
 - [ ] https://tribecap.co/a-quantitative-approach-to-product-market-fit/
+- [ ] https://medium.dave-bailey.com/how-to-get-amazing-customer-insights-automatically-29b01cce46d2
 
 ## Monetization
 
