@@ -144,4 +144,7 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://github.com/LisaDziuba/Marketing-for-Engineers#love_letter-lifecycle-email-marketing
 
 
+# Online courses
+
+- [ ] https://www.indiehackers.com/post/lessons-from-165-indiehackers-posts-about-online-courses-14b847697c
 
