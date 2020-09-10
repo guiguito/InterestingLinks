@@ -126,7 +126,36 @@ Articles and videos i liked on tech and mobile mkt
 - [x] Architecture pt 2 : https://www.filledstacks.com/post/flutter-provider-architecture-sharing-data-across-your-models/
 - [x] Architecture pt 3 :  
 - [x] simple DI : https://www.filledstacks.com/snippet/dependency-injection-in-flutter/
+- [ ] https://medium.com/@azpm95/dynamic-checkbox-widgets-in-flutter-29973504c410
+- [x] https://medium.com/flutterpub/flutter-and-moor-c2b2e03b1fbe
+- [ ] https://moor.simonbinder.eu/docs/getting-started/writing_queries/
+- [ ] https://medium.com/jlouage/flutter-row-column-cheat-sheet-78c38d242041
+- [ ] https://medium.com/flutter-nyc/avoiding-the-on-screen-keyboard-in-flutter-ae0e46ecb96c
+- [ ] https://medium.com/flutter-community/flutter-apply-style-as-a-theme-in-a-text-widget-90268328bd23
+- [ ] https://medium.com/flutter-community/flutter-apply-style-as-a-theme-in-a-text-widget-90268328bd23
+- [ ] https://www.didierboelens.com/2020/05/material-textstyle-texttheme/
+- [ ] https://medium.com/flutter-community/beginners-guide-to-text-styling-in-flutter-3939085d6607
 - [ ] 
+- [ ] 
+- [ ] 
+
+### flavoring flutter
+- [x] https://medium.com/@animeshjain/build-flavors-in-flutter-android-and-ios-with-different-firebase-projects-per-flavor-27c5c5dac10b
+- [x] https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36
+- [x] https://medium.com/@matt.goodson.business/separating-build-environment-configurations-in-flutter-with-firebase-doing-it-the-right-way-c72c3ad3621f
+- [x] https://medium.com/@LohaniDamodar/flutter-separating-build-environment-with-multiple-firebase-environment-92e40e26d275
+- [x] https://medium.com/flutter-community/multiple-builds-environment-in-flutter-for-firebase-using-provider-and-flavor-883b1a30096d
+- [x] https://medium.com/flutter-community/flutter-ready-to-go-e59873f9d7de
+
+## Firebase Cloud Functions
+- [x] https://medium.com/firebase-developers/debugging-firebase-functions-in-vs-code-a1caf22db0b2
+- [x] https://medium.com/@mwebler/debugging-firebase-functions-with-vs-code-3afab528bb36
+
+- [x] https://medium.com/@cambaughn/firestore-use-promise-all-instead-of-getall-on-the-web-301f4678bd05
+- [x] https://github.com/Kesin11/Firestore-simple
+
+- [x] 
+- [x] 
 
 ## Various
 
