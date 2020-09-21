@@ -98,6 +98,10 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://thetool.io/aso-app-store-optimization
 - [ ] https://www.apptweak.com/aso-blog
 
+# Marketing 
+- [ ] https://cxl.com/blog/differentiation-strategy/
+- [ ] https://www.julian.com/guide/growth/intro
+
 # Various 
 
 - [ ] Internet trends 2019 : https://www.bondcap.com/report/itr19/#view/title
