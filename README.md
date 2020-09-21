@@ -119,7 +119,8 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://volument.com/learn/problems-in-standard-analytics
 - [ ] https://baremetrics.com/blog/baremetrics-growth-manifesto
 - [ ] https://baremetrics.com/blog
-- [ ] https://mixpanel.com/blog
+- [ ] https://www.goatcounter.com/gdpr
+- [ ] https://github.com/zgoat/goatcounter/blob/master/docs/sessions.markdown
 
 ## Android
 
