@@ -182,3 +182,12 @@ Articles and videos i liked on tech and mobile mkt
 
 - [ ] https://www.indiehackers.com/post/lessons-from-165-indiehackers-posts-about-online-courses-14b847697c
 
+# font icons
+- [x] http://elusiveicons.com/icons/
+- [x] https://icons8.com/line-awesome
+- [x] https://feathericons.com/
+- [x] http://www.entypo.com/
+- [x] https://fontawesome.com/icons?d=gallery&q=play
+- [x] https://www.s-ings.com/typicons/
+
+
