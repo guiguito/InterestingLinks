@@ -140,8 +140,8 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://medium.com/flutter-community/flutter-apply-style-as-a-theme-in-a-text-widget-90268328bd23
 - [ ] https://www.didierboelens.com/2020/05/material-textstyle-texttheme/
 - [ ] https://medium.com/flutter-community/beginners-guide-to-text-styling-in-flutter-3939085d6607
-- [ ] 
-- [ ] 
+- [ ] https://www.raywenderlich.com/10794904-internationalizing-and-localizing-your-flutter-app
+- [ ] https://www.raywenderlich.com/10126984-creating-reusable-custom-widgets-in-flutter
 - [ ] 
 
 ### flavoring flutter
