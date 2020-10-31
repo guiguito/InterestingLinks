@@ -155,6 +155,8 @@ Articles and videos i liked on tech and mobile mkt
 - [x] https://medium.com/@LohaniDamodar/flutter-separating-build-environment-with-multiple-firebase-environment-92e40e26d275
 - [x] https://medium.com/flutter-community/multiple-builds-environment-in-flutter-for-firebase-using-provider-and-flavor-883b1a30096d
 - [x] https://medium.com/flutter-community/flutter-ready-to-go-e59873f9d7de
+- [ ] https://medium.com/bewizyu/part-1-how-to-setup-a-flutter-application-with-bitrise-346dba7d1bab
+- [ ] https://medium.com/bewizyu/part-2-how-to-setup-a-flutter-application-with-bitrise-49ebc42dc8dd
 
 ## Firebase Cloud Functions
 - [x] https://medium.com/firebase-developers/debugging-firebase-functions-in-vs-code-a1caf22db0b2
