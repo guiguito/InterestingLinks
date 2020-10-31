@@ -144,6 +144,10 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://www.raywenderlich.com/10126984-creating-reusable-custom-widgets-in-flutter
 - [ ] 
 
+### flutter web
+- [x] flutter web auth on firebase : https://medium.com/flutter-community/flutter-web-firebase-authentication-and-google-sign-in-33ef84a70b71
+- [x] https://levelup.gitconnected.com/using-firebase-in-flutter-web-4b99952180aa
+
 ### flavoring flutter
 - [x] https://medium.com/@animeshjain/build-flavors-in-flutter-android-and-ios-with-different-firebase-projects-per-flavor-27c5c5dac10b
 - [x] https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36
