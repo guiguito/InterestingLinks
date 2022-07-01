@@ -142,7 +142,8 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://medium.com/flutter-community/beginners-guide-to-text-styling-in-flutter-3939085d6607
 - [ ] https://www.raywenderlich.com/10794904-internationalizing-and-localizing-your-flutter-app
 - [ ] https://www.raywenderlich.com/10126984-creating-reusable-custom-widgets-in-flutter
-- [ ] 
+- [x] https://codewithandrea.com/articles/flutter-responsive-layouts-split-view-drawer-navigation/
+- [x] https://www.filledstacks.com/post/template-layouts-and-navigation-in-flutter-web/
 
 ### flutter web
 - [x] flutter web auth on firebase : https://medium.com/flutter-community/flutter-web-firebase-authentication-and-google-sign-in-33ef84a70b71
