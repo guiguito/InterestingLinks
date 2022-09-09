@@ -161,6 +161,14 @@ Articles and videos i liked on tech and mobile mkt
 - [ ] https://medium.com/bewizyu/part-1-how-to-setup-a-flutter-application-with-bitrise-346dba7d1bab
 - [ ] https://medium.com/bewizyu/part-2-how-to-setup-a-flutter-application-with-bitrise-49ebc42dc8dd
 
+### flutter CI/CD
+- [x] android https://medium.com/@xpeho.mobile/ci-cd-flutter-avec-github-actions-16aadab8d32d (https://github.com/marketplace/actions/upload-android-release-to-play-store, 
+- [x] android https://medium.com/@iqan/continuously-releasing-flutter-app-to-play-store-using-github-actions-eca2f5f6e996
+- [ ] android https://blog.devgenius.io/updating-version-code-for-play-store-using-github-actions-d5ea0f07f6ff
+- [x] versions in flutter: https://stackoverflow.com/questions/53570575/flutter-upgrade-the-version-code-for-play-store
+- [ ] ios https://damienaicheh.github.io/flutter/github/actions/2021/04/22/build-sign-flutter-ios-github-actions-en.html
+
+
 ## Firebase Cloud Functions
 - [x] https://medium.com/firebase-developers/debugging-firebase-functions-in-vs-code-a1caf22db0b2
 - [x] https://medium.com/@mwebler/debugging-firebase-functions-with-vs-code-3afab528bb36
